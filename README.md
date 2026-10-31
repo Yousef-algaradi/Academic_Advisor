@@ -54,7 +54,7 @@
 
 #### 1️⃣ نسخ المشروع
 
-git clone https://github.com/YOUR_USERNAME/academic-advisor.git
+git clone https://github.com/Yousef-algaradi/Academic_Advisor.git
 cd academic-advisor
 
 #### 2️⃣ إنشاء بيئة افتراضية
@@ -207,8 +207,8 @@ academic-advisor/
 | Routes | ~25 |
 | Templates | ~15 |
 | المسارات المهنية | 9 |
-| المراحل التعليمية | 90 |
-| الأسئلة | 1350 |
+| المراحل التعليمية | 89 |
+| الأسئلة | 1335 |
 
 ---
 
