@@ -247,6 +247,30 @@ academic-advisor/
 
 ---
 
+
+## 📸 Project Screenshots
+
+Explore the main features of the Academic Advisor platform.
+
+### 1. Home Page
+![Academic Advisor Home Page](Screenshots/home.png)
+
+### 2. Student Path Selection
+![Student Path Selection](Screenshots/student-path-selection.png)
+
+### 3. Academic Recommendations
+![Academic Recommendations](Screenshots/academic-recommendations.png)
+
+### 4. Career Path Selection
+![Career Path Selection](Screenshots/career-path-selection.png)
+
+### 5. Learning Stages
+![Learning Stages](Screenshots/learning-stages.png)
+
+### 6. Student Progress Dashboard
+![Student Progress Dashboard](Screenshots/student-progress-dashboard.png)
+
+
 ## 📄 الترخيص
 
 هذا المشروع للاستخدام التعليمي.
